@@ -1,2 +1,2 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+# angryBirdsStage3
+Angry Birds stage3 created a chain Constraint between bird and log6 
